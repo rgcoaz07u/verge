@@ -170,3 +170,5 @@ And those who contributed additional code review and/or security research:
 
 As well as everyone that helped translating on [Transifex](https://www.transifex.com/projects/p/bitcoin/).
 
+
+<!-- Auto-update: 2025-10-18T12:20:09.500306 -->
